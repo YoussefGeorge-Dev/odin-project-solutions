@@ -19,17 +19,7 @@
 
 ## About
 
-My solutions and progress through **The Odin Project**, a free, open-source curriculum for learning full-stack web development.
-
----
-
-## 📖 Table of Contents
-
-- [Learning Paths](#-learning-paths)
-- [Current Status](#-current-status)
-- [Getting Started](#-getting-started)
-- [Tools & Extensions](#-tools--extensions)
-- [Resources](#-resources)
+My solutions and progress through **[The Odin Project](https://www.theodinproject.com/)**, a free, open-source curriculum for learning full-stack web development.
 
 ---
 
@@ -38,11 +28,11 @@ My solutions and progress through **The Odin Project**, a free, open-source curr
 ### [Foundations](./foundations/)
 *In Progress*
 
-- [Recipes](./foundations/projects/recipes/)
-- [Landing Page](./foundations/projects/landing-page/)
-- [Rock Paper Scissors](./foundations/projects/rock-paper-scissors/)
-- [Etch-a-Sketch](./foundations/projects/etch-a-sketch/)
-- [Calculator](./foundations/projects/calculator/)
+1. [Recipes](./foundations/projects/recipes/)
+2. [Landing Page](./foundations/projects/landing-page/)
+3. [Rock Paper Scissors](./foundations/projects/rock-paper-scissors/)
+4. [Etch-a-Sketch](./foundations/projects/etch-a-sketch/)
+5. [Calculator](./foundations/projects/calculator/)
 
 ### [Full Stack JavaScript](./full-stack-javascript/)
 *Coming Soon*
@@ -50,11 +40,6 @@ My solutions and progress through **The Odin Project**, a free, open-source curr
 ### [Full Stack Ruby on Rails](./full-stack-ruby/)
 *Coming Soon*
 
----
-
-## 🎯 Current Status
-
-Foundations Track - In Progress
 
 ---
 
@@ -104,8 +89,8 @@ Foundations Track - In Progress
 
 ## 🎨 Project Highlights
 
-| Project | Tech | Status |
-|---------|------|--------|
+| Project | Skills | Status |
+|---------|--------|--------|
 | Recipes | HTML | ⏳ |
 | Landing Page | HTML, CSS | ⏳ |
 | Rock Paper Scissors | JavaScript | ⏳ |
@@ -114,8 +99,6 @@ Foundations Track - In Progress
 
 ---
 
-## 💡 Inspiration
-
 > *"The best way to predict the future is to invent it."*
 >
-> — **David Heinemeier Hansson** (Creator of Ruby on Rails)
+> — **David Heinemeier Hansson** 
