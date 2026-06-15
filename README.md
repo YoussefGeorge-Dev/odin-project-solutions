@@ -21,8 +21,6 @@
 
 My solutions and progress through **The Odin Project**, a free, open-source curriculum for learning full-stack web development.
 
-**GitHub:** [@YoussefGeorge-Dev](https://github.com/YoussefGeorge-Dev)
-
 ---
 
 ## 📖 Table of Contents
@@ -69,36 +67,28 @@ Foundations Track - In Progress
 
 ### Setup & Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YoussefGeorge-Dev/odin-project-solutions.git
-   cd odin-project-solutions
-   ```
-
-2. **Navigate to a project**
+1. **Navigate to a project**
    ```bash
    cd foundations/projects/[project-name]
    ```
 
-3. **Open in your browser**
-   ```bash
-   open index.html
-   # or just drag the file into your browser
-   ```
+2. **Open in your browser**
+   - Right-click `index.html` → Open with Live Server
+   - Or drag the file into your browser
 
 ---
 
 ## 🛠️ Tools & Extensions
 
 ### Code Editor Extensions (VS Code)
-- **Live Server** - Launch a local dev server with live reload
-- **Prettier** - Code formatter for clean, consistent code
-- **Better Comments** - Highlight important comments in your code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a local dev server with live reload
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter for clean, consistent code
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Highlight important comments in your code
 
 ### Recommended Tools
-- **Git** - Version control
-- **Node.js** - JavaScript runtime
-- **Chrome DevTools** - Browser debugging
+- [Git](https://git-scm.com/) - Version control
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Browser debugging
 
 ---
 
@@ -114,16 +104,18 @@ Foundations Track - In Progress
 
 ## 🎨 Project Highlights
 
-| Project | What You'll Learn | Status |
-|---------|------------------|--------|
-| Recipes | HTML Structure & Semantic Markup | ⏳ |
-| Landing Page | CSS Flexbox & Responsive Design | ⏳ |
-| Rock Paper Scissors | JavaScript Fundamentals | ⏳ |
-| Etch-a-Sketch | DOM Manipulation | ⏳ |
-| Calculator | JavaScript Logic & Functions | ⏳ |
+| Project | Tech | Status |
+|---------|------|--------|
+| Recipes | HTML | ⏳ |
+| Landing Page | HTML, CSS | ⏳ |
+| Rock Paper Scissors | JavaScript | ⏳ |
+| Etch-a-Sketch | JavaScript, DOM | ⏳ |
+| Calculator | JavaScript | ⏳ |
 
 ---
 
+## 💡 Inspiration
+
 > *"The best way to predict the future is to invent it."*
 >
-> — **David Heinemeier Hansson**
+> — **David Heinemeier Hansson** (Creator of Ruby on Rails)
