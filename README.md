@@ -1,11 +1,9 @@
-# 🚀 The Odin Project Solutions
+# 🚀 The Odin Project
 
 <div align="center">
 
-**My learning journey through The Odin Project**
-
 ![Foundations](https://img.shields.io/badge/Foundations-In%20Progress-yellow?style=for-the-badge)
-![Full%20Stack%20JavaScript](https://img.shields.io/badge/Full%20Stack%20JavaScript-Planned-lightgrey?style=for-the-badge)
+![Full%20Stack%20JavaScript](https://img.shields.io/badge/Full%20Stack%20JS-Planned-lightgrey?style=for-the-badge)
 ![Full%20Stack%20Ruby](https://img.shields.io/badge/Full%20Stack%20Ruby-Planned-lightgrey?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,72 +17,33 @@
 
 ---
 
-## 📁 Structure
+## 📁 Projects
 
-```
-odin-project-solutions/
-├── foundations/
-│   ├── projects/
-│   │   ├── restaurant-page/
-│   │   ├── todo-list/
-│   │   ├── weather-app/
-│   │   └── testing-practice/
-│   └── exercises/
-│
-├── full-stack-javascript/
-│   ├── projects/
-│   │   ├── library/
-│   │   ├── shopping-cart/
-│   │   ├── memory-card/
-│   │   ├── cv-builder/
-│   │   └── link-awakening-game/
-│   └── react/
-│       ├── photo-tagging-app/
-│       ├── wheres-waldo/
-│       └── inventory-app/
-│
-├── full-stack-ruby/
-│   ├── projects/
-│   │   ├── ruby-basics/
-│   │   ├── oop-ruby/
-│   │   ├── advanced-ruby/
-│   │   ├── databases/
-│   │   └── rails-projects/
-│   └── exercises/
-│
-└── notes.md
-```
+### Foundations
+- [Restaurant Page](./foundations/restaurant-page/)
+- [Todo List](./foundations/todo-list/)
+- [Weather App](./foundations/weather-app/)
+- [Testing Practice](./foundations/testing-practice/)
+
+### Full Stack JavaScript
+- [Library](./full-stack-javascript/library/)
+- [Shopping Cart](./full-stack-javascript/shopping-cart/)
+- [Memory Card](./full-stack-javascript/memory-card/)
+- [CV Builder](./full-stack-javascript/cv-builder/)
+- [Link Awakening Game](./full-stack-javascript/link-awakening-game/)
+- [Photo Tagging App](./full-stack-javascript/photo-tagging-app/)
+- [Where's Waldo](./full-stack-javascript/wheres-waldo/)
+- [Inventory App](./full-stack-javascript/inventory-app/)
+
+### Full Stack Ruby
+- [Ruby Basics](./full-stack-ruby/ruby-basics/)
+- [Databases](./full-stack-ruby/databases/)
+- [Rails Projects](./full-stack-ruby/rails-projects/)
 
 ---
 
-## 🚀 Quick Start
-
-**Vanilla Projects** — Open `index.html` in your browser or use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-**React Projects**
-```bash
-cd project-folder
-npm install
-npm start
-```
-
-**Rails Projects**
-```bash
-cd project-folder
-bundle install
-rails server
-```
+**Currently On:** Foundations
 
 ---
 
-## 📚 Resources
-
-- [The Odin Project](https://www.theodinproject.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [JavaScript.info](https://javascript.info/)
-- [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
-- [Rails Guides](https://guides.rubyonrails.org/)
-
----
-
-**Status:** In Progress | **Currently On:** Foundations
+> "The only way to do great work is to love what you do." — Steve Jobs
