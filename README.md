@@ -22,6 +22,13 @@
 My solutions and progress through **[The Odin Project](https://www.theodinproject.com/)**, a free, open-source curriculum for learning full-stack web development.
 
 ---
+## 🚀 Live Projects
+ 
+**View all projects live:** [youssefgeorge-dev.github.io/odin-project-solutions](https://youssefgeorge-dev.github.io/odin-project-solutions/)
+ 
+Each project link above is also directly playable. Click any "View Project" button to see it in action.
+
+---
 
 ## 📚 Learning Paths
 
