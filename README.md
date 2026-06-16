@@ -35,7 +35,7 @@ Each project link above is also directly playable. Click any "View Project" butt
 ### [Foundations](./foundations/)
 *In Progress*
 
-1. [Recipes](./foundations/projects/recipes/)
+1. [Recipes](./foundations/projects/odin-recipes/)
 2. [Landing Page](./foundations/projects/landing-page/)
 3. [Rock Paper Scissors](./foundations/projects/rock-paper-scissors/)
 4. [Etch-a-Sketch](./foundations/projects/etch-a-sketch/)
